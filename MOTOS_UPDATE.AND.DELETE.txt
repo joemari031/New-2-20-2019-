@@ -1,0 +1,24 @@
+
+********************|UPDATE|*****************
+
+
+1.) UPDATE `company_employ` SET `lastname` = 'Williams' WHERE `emp_id` = '2';     
+
+2.) UPDATE `company_employ` SET `age` = '46' WHERE `emp_id` = '4';
+
+3.) UPDATE `company_employ` SET `title` = 'Admin assis' WHERE `title` = 'Sec';
+
+4.) ---- 
+
+5.) --- 
+
+6.) UPDATE `company_employ` SET `title` = 'Prog III' WHERE `title` = 'Prog II'; 
+
+7.) UPDATE `company_employ` SET `title` = 'Prog II' WHERE `title` = 'Prog';  
+
+
+********************|DELETE|*****************
+
+1.) DELETE FROM `company_employ` WHERE `emp_id` = '2';
+
+2.) DELETE FROM `company_employ` WHERE `Salary` <70000;
